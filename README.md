@@ -31,7 +31,6 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 
 <h3>Piramit Ve Piramidal Şekilder - Pyramid And Pyramidal Shapes</h3>
 
-<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121714.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121700.jpg"/>
