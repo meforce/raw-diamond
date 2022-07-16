@@ -55,6 +55,7 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 
 <h3>204.05 Karat Nadir Siyah Ham Elmas</h3>
 
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220707_122626.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124817.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124843.jpg"/>
 
