@@ -6,7 +6,7 @@
 
 Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the inside and outside of the diamond?
 
-Trigon<br>
+<a href="#açığa-çıkmış-üst-üste-binen-trigonlar---revealed-overlapping-trigons">Trigon</a><br>
 Karbon / Carbon,<br>
 Azot, Nitrojen / Nitrogen,<br>
 Şekiller Üçgen Ve Bozukluklar / Shapes Triangle And Distortions<br>
