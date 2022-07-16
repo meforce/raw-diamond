@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220707_122604-1.jpg"/>
 
-<h1>Let's Examine Raw Diamonds Closer - Ham Elmasları Daha Yakından İnceleyelim</h1>
+<h3>Let's Examine Raw Diamonds Closer - Ham Elmasları Daha Yakından İnceleyelim</h3>
 
 Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the inside and outside of the diamond?
 
-Trigon,<br>
-Karbon, - Carbon,<br>
-Azot - Nitrojen, - Nitrogen,<br>
-Şekiller Üçgen Ve Bozukluklar, - Shapes Triangle And Distortions,<br>
-Siyah Lekeler, - Black Spots,
+Trigon<br>
+Karbon / Carbon,<br>
+Azot, Nitrojen / Nitrogen,<br>
+Şekiller Üçgen Ve Bozukluklar / Shapes Triangle And Distortions<br>
+Siyah Lekeler / Black Spots,
 
 <b>Resmi Büyütmek için Resmin Üzerine Tıklayın - Click on Picture to Enlarge Picture</b>
 
