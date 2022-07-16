@@ -1,4 +1,4 @@
-<h1>Raw Diamond</h1>
+<h1>Rough Diamond</h1>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220707_122604-1.jpg"/>
 
