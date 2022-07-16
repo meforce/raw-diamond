@@ -16,11 +16,11 @@ Siyah Lekeler / Black Spots,
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121102-2.jpg" width="310" height="310"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121113-2.jpg" width="310" height="310"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121133-2.jpg" width="310" height="310"/>
 
-<b>Açığa Çıkmış Üst Üste Binen Trigonlar - Revealed Overlapping Trigons</b>
+<h3>Açığa Çıkmış Üst Üste Binen Trigonlar - Revealed Overlapping Trigons</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_1211133-2.jpg"/>
 
-<b>Dış Yüzeyinde Görülen Kesitler Ve Trigonlar - Sections and Trigons Visible on the Outer Surface</b>
+<h3>Dış Yüzeyinde Görülen Kesitler Ve Trigonlar - Sections and Trigons Visible on the Outer Surface</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454-2.jpg"/>
@@ -29,37 +29,37 @@ Siyah Lekeler / Black Spots,
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621-2.jpg"/>
 
-<b>Üst Üste Binen Katman Ve Trigonlar - Overlapping Layer and Trigons</b>
+<h3>Üst Üste Binen Katman Ve Trigonlar - Overlapping Layer and Trigons</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648-2.jpg"/>
 
-<b>Piramit Ve Piramidal Şekilder - Pyramid And Pyramidal Shapes</b>
+<h3>Piramit Ve Piramidal Şekilder - Pyramid And Pyramidal Shapes</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121714.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121700.jpg"/>
 
-<b>Karbon İzi, Trigonlar - Carbon Trace, Trigons</b>
+<h3>Karbon İzi, Trigonlar - Carbon Trace, Trigons</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b5/IMG_20220716_121818.jpg"/>
 
-<b>Azot - Nitrojen - Nitrogen</b>
+<h3>Azot - Nitrojen - Nitrogen</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_122531.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_122640.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123755.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123924.jpg"/>
 
-<b>Kristalleşmemiş Karbon Noktalar - Carbon that hasn’t crystallized</b>
+<h3>Kristalleşmemiş Karbon Noktalar - Carbon that hasn’t crystallized</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123417.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123526.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123919.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123931.jpg"/>
 
-<b>204.05 Karat Nadir Siyah Ham Elmas</b>
+<h3>204.05 Karat Nadir Siyah Ham Elmas</h3>
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124817.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124843.jpg"/>
