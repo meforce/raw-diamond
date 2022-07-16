@@ -1,2 +1,2 @@
-# raw-diamond
+# Raw Diamond
 Raw Diamond
