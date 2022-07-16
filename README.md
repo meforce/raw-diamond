@@ -59,3 +59,7 @@ Siyah Lekeler / Black Spots,
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123919.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123931.jpg"/>
 
+<b>204.05 Karat Nadir Siyah Ham Elmas</b>
+
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124817.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124843.jpg"/>
