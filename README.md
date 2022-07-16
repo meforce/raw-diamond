@@ -17,4 +17,6 @@
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121611.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121611-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621-2.jpg"/>
