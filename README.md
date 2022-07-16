@@ -25,3 +25,10 @@
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648-2.jpg"/>
+
+<b>Piramit Ve Piramidal Şekilder - Pyramid And Pyramidal Shapes</b>
+
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737-2.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121714.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121700.jpg"/>
