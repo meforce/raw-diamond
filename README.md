@@ -10,7 +10,7 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 <a href="#karbon-i̇zi-trigonlar---carbon-trace-trigons">Karbon / Carbon</a><br>
 <a href="#azot---nitrojen---nitrogen">Azot, Nitrojen / Nitrogen</a><br>
 Şekiller Üçgen Ve Bozukluklar / Shapes Triangle And Distortions<br>
-Siyah Lekeler / Black Spots,
+<a href="#kristalleşmemiş-karbon-noktalar---carbon-that-hasnt-crystallized">Siyah Lekeler / Black Spots</a>
 
 <b>Resmi Büyütmek için Resmin Üzerine Tıklayın - Click on Picture to Enlarge Picture</b>
 
