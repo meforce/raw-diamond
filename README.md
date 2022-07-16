@@ -8,7 +8,7 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 
 <a href="#açığa-çıkmış-üst-üste-binen-trigonlar---revealed-overlapping-trigons">Trigon</a><br>
 <a href="#karbon-i̇zi-trigonlar---carbon-trace-trigons">Karbon / Carbon</a><br>
-Azot, Nitrojen / Nitrogen,<br>
+<a href="#azot---nitrojen---nitrogen">Azot, Nitrojen / Nitrogen</a><br>
 Şekiller Üçgen Ve Bozukluklar / Shapes Triangle And Distortions<br>
 Siyah Lekeler / Black Spots,
 
