@@ -64,4 +64,4 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124817.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b8/IMG_20220703_124843.jpg"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JPeglYb7v_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=JPeglYb7v_w&ab_channel=Mert%C3%87etin
