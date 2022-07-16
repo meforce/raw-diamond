@@ -32,3 +32,8 @@
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121737-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121714.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b4/IMG_20220716_121700.jpg"/>
+
+<b>Karbon İzi, Trigonlar - Carbon Trace, Trigons</b>
+
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b5/IMG_20220716_121818.jpg"/>
+
