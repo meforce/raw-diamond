@@ -20,3 +20,8 @@
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121611-2.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621-2.jpg"/>
+
+<b>Üst Üste Binen Katman Ve Trigonlar - Overlapping Layer and Trigons</b>
+
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b3/IMG_20220716_121648-2.jpg"/>
