@@ -24,10 +24,7 @@ Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the in
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121454-2.jpg"/>
-<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121611.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121611-2.jpg"/>
-<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621.jpg"/>
-<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b2/IMG_20220716_121621-2.jpg"/>
 
 <h3>Üst Üste Binen Katman Ve Trigonlar - Overlapping Layer and Trigons</h3>
 
