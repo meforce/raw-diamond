@@ -6,7 +6,7 @@
 
 <b>Resmi Büyütmek için Resmin Üzerine Tıklayın - Click on Picture to Enlarge Picture</b>
 
-<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121102-2.jpg" width="300" height="300"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121113-2.jpg" width="300" height="300"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121133-2.jpg" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121102-2.jpg" width="310" height="310"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121113-2.jpg" width="310" height="310"/><img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220716_121133-2.jpg" width="310" height="310"/>
 
 <b>Açığa Çıkmış Üst Üste Binen Trigonlar - Revealed Overlapping Trigons</b>
 
