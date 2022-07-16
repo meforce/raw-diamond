@@ -52,3 +52,10 @@ Siyah Lekeler / Black Spots,
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123755.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123924.jpg"/>
 
+<b>Kristalleşmemiş Karbon Noktalar - Carbon that hasn’t crystallized</b>
+
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123417.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123526.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123919.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b7/IMG_20220716_123931.jpg"/>
+
