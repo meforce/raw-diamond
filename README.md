@@ -49,5 +49,6 @@ Siyah Lekeler / Black Spots,
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_122531.jpg"/>
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_122640.jpg"/>
-
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123755.jpg"/>
+<img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/b6/IMG_20220716_123924.jpg"/>
 
