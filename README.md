@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/meforce/raw-diamond/main/images/IMG_20220707_122604-1.jpg"/>
 
-<h3>Let's Examine Raw Diamonds Closer - Ham Elmasları Daha Yakından İnceleyelim</h3>
+<h3>Let's Examine Raw Diamonds Closer - Ham Elması Daha Yakından İnceleyelim</h3>
 
 Elmas iç ve dış yüzeyinde neleri görmeliyiz? - What should we see on the inside and outside of the diamond?
 
